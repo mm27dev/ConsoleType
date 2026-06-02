@@ -1,6 +1,6 @@
 # ConsoleType
 
-## This addicting typing test will increase your workplace effficiency and WPM. Choose from a preset typing test, random word bank, or upload your own test through text files! Meant to be used in the Python Console.
+## This fun typing test will increase your workplace effficiency and WPM. Choose from a preset typing test, random word bank, or upload your own test through text files! Meant to be used in the Python Console.
 
 # Setup (IMPORTANT!!!)
 
